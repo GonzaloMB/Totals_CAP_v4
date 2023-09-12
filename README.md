@@ -232,7 +232,6 @@ GET BooksAggregate?$apply=concat(groupby((ID,category,title))/aggregate($count%2
 ```
 This will fail because 'concat' is not available in the Node.js version.
 https://www.notion.so/Fiori-Elements-v4-Analytical-Table-with-CAP-Node-js-294b17e36e7147a2ae0bcbefc65489b6?pvs=4#8f611bd58a5e4874bcef2c2fa039d0cb
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7aba2d56-d758-442a-81cb-1838d5484caa/8512d3d6-0b82-481a-9ace-7d9f3254fb94/Untitled.png)
 To resolve this issue, there is an experimental feature that you can enable by adding the following code to the package.json file of your CAP project:
 
 ```json
