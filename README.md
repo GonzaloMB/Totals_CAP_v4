@@ -1,4 +1,4 @@
-<h1 align="center"> SAP CAP (Node.js) | Fiori Elements v4 Analytical Table </h1>
+<h1 align="center"> SAP CAP (Node.js) | Totals in Fiori Elements v4 Analytical Table </h1>
 <div align="center">
 Project made it with SAP CAP Node.js version and Fiori Elements v4
 </div>
