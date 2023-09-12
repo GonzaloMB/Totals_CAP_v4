@@ -23,9 +23,9 @@ The project contains these folders and files :
 
 File or Folder | Purpose
 ---------|----------
-[`db/`](https://github.com/GonzaloMB/Upload-CSV_SAP-CAP/edit/main/README.md#1-db) | your domain models and data go here
-[`srv/`](https://github.com/GonzaloMB/Upload-CSV_SAP-CAP/edit/main/README.md#2-srv) | your service models and code go here
-[`app/`](https://github.com/GonzaloMB/Upload-CSV_SAP-CAP/edit/main/README.md#2-app) | content for UI frontends goes here
+`db/` | your domain models and data go here
+`srv/` | your service models and code go here
+`app/` | content for UI frontends goes here
 `package.json` | project metadata and configuration
 
 _Tools you need to be able to develop this application_
