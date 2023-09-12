@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started
 
 Welcome to your new project.
@@ -27,4 +27,4 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 =======
 # Totals_CAP_v4
 Totals in SAP CAP (Node.js Version) oData v4
->>>>>>> 8661f5eff482b25d529798693270758025bc3e67
+
